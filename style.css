@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #BEC1AC;
+    border-bottom: 1px solid #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.jumbotron{
+    background-color: #DDE1D6;
+    padding-top: 100px;
+}
+
+.img-thumbnail{
+    height: 500px;
+}
